@@ -1,9 +1,9 @@
 ---
-date: 2016-04-09T16:50:16+02:00
-title: Pages organization
-weight: 5
----
+date: 2016-04-09T16:50:16.000+02:00
+title: Riad
+weight: "5"
 
+---
 In **Hugo**, pages are the core of your site. Once it is configured, pages are definitely the added value to your documentation site.
 
 ## Folders
